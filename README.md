@@ -1,8 +1,9 @@
-# training_Maksimova
+## training_Maksimova
 
-## Training: GitHub
+### Training: GitHub
 
-GitHub trainings - HSE (https://www.hse.ru/)
+GitHub trainings - HSE (https://www.hse.ru/) 
+
 
 
 
